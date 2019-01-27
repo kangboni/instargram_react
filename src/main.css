@@ -1,0 +1,201 @@
+.header{
+    width: 361px;
+    height: 457px;
+    margin-top: 13px;
+    margin-left: 8px;
+    border-radius: 5px;
+    box-shadow: 0 0 6px 2px rgba(0, 0, 0, 0.03);
+    background-color: #ffffff;
+    box-sizing: border-box;
+
+  }
+  .a{
+    float: left;
+  }
+  .b{
+    float: left;
+  }
+  .locationArea {
+    display: flex;
+    align-items: baseline;
+  }
+  .c{
+    float: left;
+  }
+  .img{
+    width: 38px;
+    height: 38px;
+    margin-top: 8px;
+    margin-left: 15px;
+    margin-bottom: 8px;
+  }
+  .sarahannloreth{
+    width: 88px;
+    height: 18px;
+    font-size: 14px;
+    color: #2c2c2c;
+    margin-top: 10px;
+    margin-left: 12px;
+    margin-bottom: 0px;
+
+  }
+ 
+  .fill-2800{
+    width: 8px;
+    height: 10px;
+    object-fit: contain;
+    margin-left: 12px;
+    margin-top: 4px;
+
+    float: left;
+  }
+  .Kauai-Hawaii{
+    width: 73px;
+    height: 18px;
+    font-size: 13px;
+    line-height: 1.38;
+    letter-spacing: normal;
+    text-align: left;
+    color: #aaaaaa;
+    margin-left: 4px;
+    margin-top: 4px;
+    white-space: pre;
+  }
+  .Oval-2{
+    width: 5px;
+    height: 5px;
+    background-color: #aaaaaa; 
+    margin-left: 173px;
+    margin-top: 32px;
+    border-radius: 5px;
+    float: left;
+  }
+  .Oval-3{
+    width: 5px;
+    height: 5px;
+    background-color: #aaaaaa; 
+    margin-left: 3px;
+    margin-top: 32px;
+    border-radius: 5px;
+    float: left;
+  }
+  .Oval-4{
+    width: 5px;
+    height: 5px;
+    background-color: #aaaaaa; 
+    margin-left: 3px;
+    margin-top: 32px;
+    border-radius: 5px;
+    float: left;
+  }
+  
+
+  .mainimg{
+    width: 361px;
+    height: 240px;
+  }
+  
+  .like{
+    width: 16px;
+    height: 14px;
+    object-fit: contain;
+    margin-top: 12px;
+    margin-left: 16px;
+  }
+  .comments{
+    width: 16px;
+    height: 14px;
+    object-fit: contain;
+    margin-left: 16px;
+  }
+  .sarahannloreth2{
+    width: 329px;
+    height: 22px;
+    font-size: 14px;
+    font-weight: normal;
+    font-style: normal;
+    line-height: 1.57;
+    letter-spacing: normal;
+    text-align: left;
+    color: #2c2c2c;
+    margin-top: 2px;
+    margin-left: 15px;
+    margin-bottom: 0px;
+  }
+  .the-edge-of-New-Zeal{
+    width: 329px;
+    height: 44px;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 1.57;
+    letter-spacing: normal;
+    text-align: left;
+    color: #aaaaaa;
+    margin-left: 15px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+  }
+  #newzealand-sight{
+    width: 329px;
+    height: 22px;
+    line-height: 1.57;
+    letter-spacing: normal;
+    text-align: left;
+    color: #6e8f9c;
+    margin-left: 15px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    font-size: 14px;
+  }
+  .View-all-comments{
+    width: 329px;
+    height: 22px;
+    line-height: 1.57;
+    font-size: 14px;
+    letter-spacing: normal;
+    text-align: left;
+    color: #aaaaaa;
+    margin-left: 15px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+  }
+  .bar{
+    width: 375px;
+    height: 50px;
+    margin-top: 90px;
+    box-shadow: 0 -1px 0 0 #e0e0e0;
+    background-color: rgba(255, 255, 255, 0.8);
+    box-sizing: border-box;
+  }
+  
+  .home{
+    width: 20px;
+    height: 20px;
+    object-fit: contain;
+    margin-top: 15px;
+    margin-left: 28px;
+  }
+  .search{
+    width: 20px;
+    height: 20px;
+    margin-top: 15px;
+    margin-left: 55px;
+  }
+  .photo{
+    width: 20px;
+    height: 20px;
+    margin-top: 15px;
+    margin-left: 55px;
+  }
+  .activity{
+    width: 20px;
+    height: 20px;
+    margin-top: 15px;
+    margin-left: 55px;
+  }
+  .profile{
+    width: 20px;
+    height: 20px;
+    margin-top: 15px;
+    margin-left: 55px;
+  }

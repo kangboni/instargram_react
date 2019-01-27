@@ -1,0 +1,121 @@
+.logo {
+  margin-left: 141px;
+  margin-top: 136px;
+}
+
+.app {
+  border: 1px solid black;
+  width: 375px;
+  height: 667px;
+  margin: 11px;
+}
+
+.login {
+  margin-left: 64px;
+  margin-top: 199px;
+  width: 247px;
+  height: 40px;
+  border-radius: 20px;
+  background-color: white;
+}
+
+.register{
+  margin-left: 64px;
+  margin-top: 16px;
+  width: 247px;
+  height: 40px;
+  border-radius: 20px;
+  background-color: white;
+
+}
+
+.email{
+  margin-left: 64px;
+  margin-top: 236px;
+  width: 247px;
+  height: 40px;
+  border-radius: 20px;
+  border: 1px solid gray;
+  padding-left: 16px;
+  box-sizing: border-box;
+}
+
+.password{
+  margin-left: 64px;
+  margin-top: 16px;
+  width: 247px;
+  height: 40px;
+  border-radius: 20px;
+  border: 1px solid gray;
+  padding-left: 16px;
+  box-sizing: border-box;
+}
+.login1 {
+  margin-left: 64px;
+  margin-top: 16px;
+  width: 247px;
+  height: 40px;
+  border-radius: 20px;
+  background-color: black;
+  color: white;
+  border: 1px solid black;
+  box-sizing: border-box;
+}
+
+.nickname{
+  margin-left: 64px;
+  margin-top: 180px;
+  width: 247px;
+  height: 40px;
+  border-radius: 20px;
+  border: 1px solid gray;
+  padding-left: 16px;
+  box-sizing: border-box;
+}
+
+.email1{
+  margin-left: 64px;
+  margin-top: 16px;
+  width: 247px;
+  height: 40px;
+  border-radius: 20px;
+  border: 1px solid gray;
+  padding-left: 16px;
+  box-sizing: border-box;
+}
+
+.password1{
+  margin-left: 64px;
+  margin-top: 16px;
+  width: 247px;
+  height: 40px;
+  border-radius: 20px;
+  border: 1px solid gray;
+  padding-left: 16px;
+  box-sizing: border-box;
+}
+.register1 {
+  margin-left: 64px;
+  margin-top: 24px;
+  width: 247px;
+  height: 40px;
+  border-radius: 20px;
+  background-color:  #4a90e2;
+  color: white;
+  border: 1px solid #4a90e2;
+  box-sizing: border-box;
+}
+
+::placeholder { 
+  color: gray;
+}
+
+.top{
+  width: 375px;
+  height: 20px;
+  object-fit: contain;
+}
+.mainlogo{
+  margin-left: 138px;
+  margin-top: 10px;
+}
