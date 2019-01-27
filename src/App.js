@@ -1,16 +1,18 @@
 import React, { Component } from 'react';
-import './App.css';
+import { BrowserRouter, Route } from 'react-router-dom';
 
-const logo = './img/logo.png';
+import Enteracne from './pages/Enterance';
+import Login from './pages/Login';
 
 class App extends Component {
   render() {
     return (
-      <div className="app">
-        <img className="logo" src={logo} />
-        <button className="login">Login</button>
-        <button className="register">Register</button>
-      </div>
+      <BrowserRouter>
+        <div>
+          <Route exact path="/" component={Enteracne} />
+          <Route exact path="/login" component={Login} />
+        </div>
+      </BrowserRouter>
     );
   }
 }
